@@ -1,4 +1,5 @@
-![Word Cloud](SS_02.png)
+![SS1](SS_01.png)
+![SS2](SS_02.png)
 
 
 
