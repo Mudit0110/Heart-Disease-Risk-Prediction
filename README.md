@@ -1,4 +1,4 @@
-![Word Cloud](Screenshot 2024-07-01 123901.png)
+![Word Cloud](SS_02.png)
 
 
 
