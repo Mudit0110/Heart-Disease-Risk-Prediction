@@ -1,8 +1,12 @@
-!(https://github.com/Mudit0110/Heart-Disease-Risk-Prediction/blob/master/Screenshot%202024-07-01%20123842.png)
+## Project Pipeline
+![Pipeline]([images/pipeline.png "Pipeline Diagram](https://github.com/Mudit0110/Heart-Disease-Risk-Prediction/blob/master/Screenshot%202024-07-01%20123842.png)")
 
-!(images/wordcloud.png "Word Cloud")
+## Word Cloud Example
+![Word Cloud](images/wordcloud.png "Word Cloud")
 
-!(images/confusion_matrix.png "Confusion Matrix")
+## Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png "Confusion Matrix")
+
 
 
 # Heart Disease Risk Prediction  
