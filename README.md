@@ -1,3 +1,10 @@
+!(https://github.com/Mudit0110/Heart-Disease-Risk-Prediction/blob/master/Screenshot%202024-07-01%20123842.png)
+
+!(images/wordcloud.png "Word Cloud")
+
+!(images/confusion_matrix.png "Confusion Matrix")
+
+
 # Heart Disease Risk Prediction  
 
 This project aims to predict the risk of heart disease using machine learning algorithms. By analyzing various health parameters, the model provides early warnings to help in the prevention of heart disease.  
