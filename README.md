@@ -1,11 +1,5 @@
-## Project Pipeline
-![Pipeline]([images/pipeline.png "Pipeline Diagram](https://github.com/Mudit0110/Heart-Disease-Risk-Prediction/blob/master/Screenshot%202024-07-01%20123842.png)")
+![Word Cloud](Screenshot 2024-07-01 123901.png)
 
-## Word Cloud Example
-![Word Cloud](Screenshot 2024-07-01 123842.png "Word Cloud")
-
-## Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png "Confusion Matrix")
 
 
 
